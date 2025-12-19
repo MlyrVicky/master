@@ -1,3 +1,6 @@
  this my dymmy data 
 what is full stack devloper ?
       is back End and frinend is commaind full satck devlopement.
+  what is java ?
+  java is object oriented programming language.
+  
